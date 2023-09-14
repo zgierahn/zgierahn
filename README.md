@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Zach, and I'm a software engineer.  I came from the beer industry where I was passionate about the blending of art and science in concocting a high quality product that was generally loved by the public.  It was the details that really inspired me to make something truly great and the ability to use science in an artistic way to accomplish it.  I find that same blend of art and science in software engineering and I hope to craft something truly great that the public will generally love.
 
-- 🔭 I’m currently working on a website clone that I have dubbed Dr. Stein.  I'm planning to implement a few more features and I'm really enjoying how this website is taking shape!
+- 🔭 I’m currently working on a website clone that I have dubbed [Dr. Stein](https://github.com/zgierahn/Dr-Squatch-Clone).  I'm planning to implement a few more features on this website and I'm really enjoying how it's taking shape!
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
